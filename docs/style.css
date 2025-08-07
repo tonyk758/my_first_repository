@@ -1,6 +1,77 @@
 body {
-  font-family: sans-serif;
-  background: #f4f4f4;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f5f7fa;
   color: #222;
+}
+
+header {
+  background: linear-gradient(90deg, #4f8cff 0%, #6ee7b7 100%);
+  color: #fff;
+  padding: 2rem 0;
+  text-align: center;
+  animation: fadeInDown 1s;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 60vh;
+  padding: 2rem 0;
+}
+
+section {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
   padding: 2rem;
+  max-width: 500px;
+  width: 100%;
+  animation: fadeInUp 1.2s;
+}
+
+section img {
+  display: block;
+  margin: 0 auto 1.5rem auto;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(79,140,255,0.15);
+  animation: popIn 1.5s;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  background: #e5e7eb;
+  color: #555;
+  font-size: 1rem;
+  animation: fadeIn 2s;
+}
+
+/* Animations */
+@keyframes fadeInDown {
+  from { opacity: 0; transform: translateY(-40px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(40px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+
+@keyframes fadeIn {
+  from { opacity: 0;}
+  to { opacity: 1;}
+}
+
+@keyframes popIn {
+  0% { opacity: 0; transform: scale(0.7);}
+  70% { opacity: 1; transform: scale(1.05);}
+  100% { opacity: 0;}
 }
