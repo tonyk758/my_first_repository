@@ -1,28 +1,23 @@
 # my_first_repository
 
-Script: How to Improve Your English
+Monday 11:30–13:30 Financial Accounting WK-S213 🔵
 
-Hello everyone, today I want to share some tips on how to improve your English—whether you're just getting started or hoping to become more fluent.
+Tuesday 10:30–12:30 Academic English Home 🟢
 
-1. Listen Like a Sponge  
-Start by immersing yourself in English through music, movies, podcasts, and YouTube videos. Listening helps you understand pronunciation, tone, and natural expressions. Try to mimic the speakers—it’s okay to sound a little silly at first.
+Tuesday 16:30–18:30 Information Technology WK-S213 🟣
 
-2. Speak Without Fear  
-Don’t be afraid of making mistakes. Speaking regularly—even a few sentences a day—will boost your confidence. Practice with friends, language exchange partners, or even just talk to yourself in front of a mirror.
+Wednesday 14:30–15:30 Financial Accounting WK-S1002 🔵
 
-3. Read Everything You Can  
-Books, blogs, menus, advertisements—every piece of English text helps. Choose topics you enjoy so reading becomes fun, not a chore. Highlight new words and look them up later.
+Wednesday 17:00–19:00 Mathematics & Statistics WK-S111 🟠
 
-4. Write Every Day  
-Start a diary, write social media captions in English, or post questions on forums. Expressing your thoughts in writing strengthens vocabulary and grammar.
+Thursday 09:30–10:30 Mathematics & Statistics WK-SUG03 🟠
 
-5. Use Apps and Online Resources  
-There are great tools out there like Duolingo, HelloTalk, and Grammarly. You can learn vocabulary, speak with native speakers, or even get feedback on grammar mistakes.
+Thursday 10:30–12:30 Academic English WK-N1204 🟢
 
-6. Make English Part of Your Daily Life  
-Change your phone language to English, think in English during daily activities, and surround yourself with the language as much as possible.
+Thursday 13:30–14:30 Managing Organisations WK-S714 🔴
 
-Final Tip: Stay Curious and Be Kind to Yourself  
-Language learning takes time. Celebrate small wins and enjoy the journey.
+Thursday 16:30–18:00 Academic English (Week 7) Online 🟢
 
-Thank you for listening, and I hope these tips help you improve your English step by step.
+Friday 15:00–17:00 Managing Organisations WK-SUG12 🔴
+
+Friday 18:00–19:00 Information Technology WK-N1001 🟣
